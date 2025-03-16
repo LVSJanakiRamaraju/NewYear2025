@@ -17,7 +17,7 @@ Welcome to the **Happy New Year 2025** celebration project! This project is an a
 ## 🚀 How to Run
 1. Clone the repository:
    ```sh
-   git clone https://github.com/LVSJanakiRamaraju/Happy-New-Year-2025.git
+   git clone https://github.com/LVSJanakiRamaraju/NewYear2025.git
    ```
 2. Open `index.html` in any browser.
 3. Enjoy the animated New Year celebration! 🎊
